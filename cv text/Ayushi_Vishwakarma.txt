@@ -1,0 +1,82 @@
+Ayushi Vishwakarma 
+Bengaluru, Karnataka 
+08197367391
+ayushivishwakarma22@gmail.com
+
+Summary
+Experienced UI Developer with 7 years in the IT industry, specializing in Angular, JavaScript, TypeScript, RxJS, and state management. Skilled in building scalable, user-centric web applications for product-based environments and working within Agile development teams. Recently expanded expertise into backend development using Node.js, Express.js, and MongoDB, enabling end-to-end application development. Known for fast learning, problem-solving, and delivering high-impact solutions through effective cross-functional collaboration.
+
+Education
+Indian Institute of Technology, Hyderabad                   Computer Science Engineering 
+08/2019
+Hyderabad 
+M.Tech, Computer Science – IIT Hyderabad, CGPA: 8.21/10.
+Served as Teaching Assistant for Programming in C, guiding students during lab sessions, debugging code, and assisting in assignment evaluation.
+Completed advanced coursework in Machine Learning and AI, including Applied Machine Learning, Deep Learning, and Information Retrieval.
+Mahatma Jyotiba Phule Rohilkhand University Bareilly                   Computer Science Engineering 
+07/2017
+Bareilly , UP
+B.Tech, Computer ScienceCGPA: 8.48 / 10
+Academic Achievements & Activities
+Cleared Round 1 of TCS CodeVita, an international competitive programming contest conducted by Tata Consultancy Services.
+Completed a technical project at Raja Ramanna Centre for Advanced Technology, Indore — developed a web-based application for graphical monitoring of cool-down measurements using Java.
+Co-authored research paper titled “Biometric Security System Aided by an Android Application.”
+Co-authored research paper titled “Web-based Application for Monitoring of Cool-down Measurements in Graphical Format.”
+
+Experience
+Software Engineer 
+GE HealthCare                   12/2020 - Present
+Bengaluru , Karnataka
+Designed and developed UI features for a real-time monitoring viewer using Angular and Electron
+Implemented dual-display support with complex Electron IPC integration
+Enhanced performance logging, resulting in a 40% improvement in debugging efficiency
+Achieved near 100% unit test coverage using Jest Framework
+Resolved bugs through deep code analysis to enhance system reliability
+Collaborated with Agile Scrum teams to ensure on-time and quality releases
+Implemented optimizations to enhance overall application performance and responsiveness
+Stayed updated with the latest technologies and best practices in web development
+Software Edison Engineer 
+GE HealthCare                   03/2020 - 11/2020
+Bengaluru , Karnataka
+Developed proof of concept using AWS Medical Comprehend and SciPy for PHI detection
+Designed wireframes and assessed third-party tool for de-identification
+Addressed HIPAA compliance measures through AWS Cognito and Okta IAM integrations
+Documented project findings on Confluence
+Recognized with #BRAVO Impact Award
+Software Edison Engineer 
+GE HealthCare                   07/2019 - 02/2020
+Bengaluru , Karnataka
+Developed deep learning model for denoising MR images
+Utilized AWS S3 for model training and deployment
+Performed patch installation in a diagnostic center of Bangalore
+Collaborated with cross-functional teams for model optimization
+Analyzed and identified performance bottlenecks in deep learning model
+Stayed updated with latest technologies in deep learning and image processing
+
+Skills
+JavaScript
+Angular 2+
+TypeScript
+RxJx
+Jest
+HTML
+CSS
+ElectronJS
+GIT
+Promp Engineering
+NodeJS
+ExpressJS
+Python
+C
+Agile Methodology
+Confluence
+Rally
+
+Achievements & Recognitions
+
+Inventor of US Patent: "Systems and Methods for Predicting and Preventing Collisions" (US2023/01319A1) - received IP Award from Girish Raghavan (CTO)
+Recieved #BRAVO Impact Award by then manager Omar Farook for my work in making the product HIPPA compliant - "Ayushi did a great job on analyzing HIPAA compliance. She prototyped Amazon Medical Comprehend and Spacy to detect PHI on HL7 messages and provided a comparative study. She performs study independently, asks the right question and gets deeper to give the desired result."
+Machine Learning Engineer Nanodegree – Udacity
+Certification in Communication Strategies for a Virtual Age 
+Joined the Early Career Leadership Curriculum @GE - (Cohort 2) for personal development
+Presented a Paper titled “Biometric Security System Aided By an Android Application” in the International Conference on Academic Research in Engineering, Management and Information Technology(ICAREMIT-2015), MJP Rohilkhand University, Bareilly.[Status- Accepted]
