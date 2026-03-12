@@ -74,6 +74,8 @@ C
 Agile Methodology
 Confluence
 Rally
+LLM
+Gen AI concepts
 
 Achievements & Recognitions
 
@@ -82,5 +84,6 @@ Recieved #BRAVO Impact Award by then manager Omar Farook for my work in making t
 Appreciated by the Program Director for identifying important gaps in SOUP documents while doing peer reviews.
 Machine Learning Engineer Nanodegree – Udacity
 Certification in Communication Strategies for a Virtual Age 
+Attended a Gen AI workshop conducted in GEHC
 Joined the Early Career Leadership Curriculum @GE - (Cohort 2) for personal development
 Presented a Paper titled “Biometric Security System Aided By an Android Application” in the International Conference on Academic Research in Engineering, Management and Information Technology(ICAREMIT-2015), MJP Rohilkhand University, Bareilly.[Status- Accepted]
